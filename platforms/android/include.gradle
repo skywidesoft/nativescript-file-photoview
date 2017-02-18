@@ -1,0 +1,15 @@
+android { 
+    productFlavors {
+        "nativescript-photoviewer" {
+            dimension "nativescript-photoviewer"
+        }
+    }
+}
+
+repositories {
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+  compile 'com.github.skywidesoft:FilePhotoView:0.1.4'
+}

@@ -1,3 +1,3 @@
-import { Common } from './file-photoview.common';
-export declare class FilePhotoview extends Common {
+export declare class FilePhotoview {
+    show(imageFilePath: string): void;
 }

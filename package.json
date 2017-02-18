@@ -1,13 +1,12 @@
 {
   "name": "nativescript-file-photoview",
-  "version": "1.0.0",
-  "description": "Your awesome NativeScript plugin.",
+  "version": "0.1.0",
+  "description": "NativeScript plugin for viewing an image file from local storage on Android.",
   "main": "file-photoview",
   "typings": "index.d.ts",
   "nativescript": {
     "platforms": {
-      "android": "2.5.0",
-      "ios": "2.5.0"
+      "android": "2.5.0"
     }
   },
   "scripts": {
@@ -24,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clarenceh/nativescript-file-photoview.git"
+    "url": "https://github.com/skywidesoft/nativescript-file-photoview.git"
   },
   "keywords": [
     "NativeScript",
@@ -33,14 +32,14 @@
     "iOS"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "youremail@yourdomain.com"
+    "name": "Clarence Ho",
+    "email": "ho.clarence@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/clarenceh/nativescript-file-photoview/issues"
+    "url": "https://github.com/skywidesoft/nativescript-file-photoview/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/clarenceh/nativescript-file-photoview",
+  "homepage": "https://github.com/skywidesoft/nativescript-file-photoview",
   "readmeFilename": "README.md",
   "devDependencies": {
     "tns-core-modules": "^2.5.1",

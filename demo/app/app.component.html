@@ -1,0 +1,10 @@
+<StackLayout>
+    <Label text="Demo for nativescript-file-photoview plugin"></Label>
+
+    <StackLayout>
+        <Label text="Enter image URL into the following text field"></Label>
+        <TextField [(ngModel)]="imageUrl"></TextField>
+    </StackLayout>
+
+    <Button text="View Photo" (tap)="viewPhoto()"></Button>
+</StackLayout>
