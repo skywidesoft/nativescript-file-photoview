@@ -3,9 +3,9 @@ A simple library for viewing an image file on Android from local storage.
 
 > This plugin supports Android only. For iOS, recommend to use nativescript-photoview plugin.
 
-| Android
-| ------- 
-[FilePhotoView](https://github.com/skywidesoft/FilePhotoView)
+| Android |
+| ------- |
+| [FilePhotoView](https://github.com/skywidesoft/FilePhotoView) |
 
 ## Background
 I have an app that reads images from a protected REST API endpoints, and download into NativeScript as ImageSource. I need a photo viewer so when the thumbnail was tapped, the viewer for the photo will display with zoom functionality.
