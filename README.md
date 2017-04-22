@@ -23,9 +23,6 @@ As a result, I come up a simple approach as follows:
 ## Installation
 Run  ```tns plugin add nativescript-file-photoview``` in your ROOT directory of your project.
 
-## Limitations
-Captions only available on iOS. Android only supports array of string urls as datasource. 
-
 ## Usage
 The usage is very simple. Import "nativescript-file-photoview" module and create a instance of it. Call the ```show(string)``` (string is the local storage image file path) function to present the photo. 
 The ```show()``` function accept a singe parameter, a string.

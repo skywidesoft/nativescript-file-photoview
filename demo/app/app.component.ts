@@ -36,7 +36,11 @@ export class AppComponent implements OnInit {
 
                 let path = fs.path.join(folder.path, fileName);
 
-                image.saveToFile(path, enums.ImageFormat.jpg);
+                /**
+                 * After migrate to NS 3.0 and TS 2.2, pass enum as argument not work
+                 */
+                // image.saveToFile(path, enums.ImageFormat.jpg);
+                image.saveToFile(path, 'jpg');
                 console.log(`File: ${path} saved successfully`);
 
                 this.filePhotoView.show(path);
