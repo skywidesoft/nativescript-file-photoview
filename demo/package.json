@@ -13,14 +13,14 @@
     }
   },
   "dependencies": {
-    "@angular/common": "~4.0.0",
-    "@angular/compiler": "~4.0.0",
-    "@angular/core": "~4.0.0",
-    "@angular/forms": "~4.0.0",
-    "@angular/http": "~4.0.0",
-    "@angular/platform-browser": "~4.0.0",
-    "@angular/platform-browser-dynamic": "~4.0.0",
-    "@angular/router": "~4.0.0",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0",
+    "@angular/http": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/router": "^4.0.0",
     "lodash": "^4.17.4",
     "nativescript-angular": "^3.0.0",
     "nativescript-file-photoview": "file:..",
@@ -32,7 +32,7 @@
     "zone.js": "~0.8.2"
   },
   "devDependencies": {
-    "@angular/compiler-cli": "~4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
     "@ngtools/webpack": "1.2.13",
     "@types/lodash": "^4.14.52",
     "babel-traverse": "6.23.1",
