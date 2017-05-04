@@ -43,13 +43,13 @@
   "homepage": "https://github.com/skywidesoft/nativescript-file-photoview",
   "readmeFilename": "README.md",
   "devDependencies": {
-    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.2",
-    "tns-platform-declarations": "^3.0.0 || ^3.0.0-rc.1",
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0",
     "typescript": "^2.2.2",
     "prompt": "^1.0.0",
     "rimraf": "^2.5.0"
   },
   "peerDependencies": {
-    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.2"
+    "tns-core-modules": "^3.0.0"
   }
 }
