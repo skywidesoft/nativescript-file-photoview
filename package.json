@@ -1,6 +1,6 @@
 {
   "name": "nativescript-file-photoview",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "NativeScript plugin for viewing an image file from local storage on Android.",
   "main": "file-photoview",
   "typings": "index.d.ts",
